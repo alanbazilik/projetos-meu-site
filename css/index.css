@@ -1,0 +1,35 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+
+  }
+  
+  li {
+    float: right;
+}
+  
+  li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: wheat;
+  }
+  body{
+    background-color: antiquewhite;
+  }
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 12px;
+word-wrap: initial;
+word-break: keep-all;
+}
