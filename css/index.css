@@ -39,9 +39,12 @@ ul {
   }
 h2{
   font-family: 'minhaFonte', sans-serif;
-font-size: 1em;
+font-size: 25px;
 font-weight: normal;
 font-style: normal;
+text-align: center;
+position: relative;
+top: -380px;
 }
 h1{
   font-family: 'minhaFonte', sans-serif;
@@ -49,4 +52,9 @@ font-size: 35px;
 font-weight: normal;
 font-style: normal; 
 color: white;
+}
+.copyright{
+  text-align: center;
+  position: relative;
+  top: -120px;
 }
